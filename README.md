@@ -22,24 +22,24 @@ Déroulement des étapes :
     8. Une fois le cycle de base validé, concevoir le mode automatique/manuel 
 
 
-#Cahier des charges du programme
+#Cahier des charges fonctionnel
  1. Objectif :
    Programmer le malaxeur pour qu'il réalise une séquence de chauffage et de malaxage avec des ajouts de produit à des étapes précises.
-1. Chauffage initial  
-   - Monter la température de la cuve à 45°C
-2. Ajout de produit  
-   -  Ajouter le produit dans la cuve
-3. Début du malaxage  
-   - Commencer le malaxage a une vitesse déterminée
-4. Montée en température 
-   - Augmenter la température de la cuve à 65°C.
-5. Arrêt de la chauffe et poursuite du malaxage  
-   - Arrêter le chauffage.
-   - Maintenir le malaxage pendant 60 minutes sans chauffer.
+    1. Chauffage initial  
+       - Monter la température de la cuve à 45°C
+    2. Ajout de produit  
+       -  Ajouter le produit dans la cuve
+    3. Début du malaxage  
+       - Commencer le malaxage a une vitesse déterminée
+    4. Montée en température 
+       - Augmenter la température de la cuve à 65°C.
+    5. Arrêt de la chauffe et poursuite du malaxage  
+       - Arrêter le chauffage.
+       - Maintenir le malaxage pendant 60 minutes sans chauffer.
 
-6. Ajout de produit
-   - Ajouter le produit dans la cuve.
-7. Montée en température 
-   - Monter la température de la cuve à 80°C.
-8. Malaxage final
-   - Maintenir le malaxage à 80°C pendant 45 minutes.
+    6. Ajout de produit
+       - Ajouter le produit dans la cuve.
+    7. Montée en température 
+       - Monter la température de la cuve à 80°C.
+    8. Malaxage final
+       - Maintenir le malaxage à 80°C pendant 45 minutes.
