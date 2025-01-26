@@ -25,18 +25,22 @@ Déroulement des étapes :
 #Cahier des charges fonctionnel
    Objectif :
    Programmer le malaxeur pour qu'il réalise une séquence de chauffage et de malaxage avec des ajouts de produit à des étapes précises.
+    
     1. Chauffage initial  
        - Monter la température de la cuve à 45°C
+    
     2. Ajout de produit  
        -  Ajouter le produit dans la cuve
+    
     3. Début du malaxage  
        - Commencer le malaxage a une vitesse déterminée
+    
     4. Montée en température 
        - Augmenter la température de la cuve à 65°C.
+   
     5. Arrêt de la chauffe et poursuite du malaxage  
        - Arrêter le chauffage.
        - Maintenir le malaxage pendant 60 minutes sans chauffer.
-
     6. Ajout de produit
        - Ajouter le produit dans la cuve.
     7. Montée en température 
