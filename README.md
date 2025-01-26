@@ -5,6 +5,7 @@
 Objectif :
 L'objectif du projet sera de créer un processus de malaxage à partir d'un système Habilis et d'un pupitre de commande.
 Déroulement des étapes :
+   
     1. Se documenter sur le système Habilis et comment faire une mise en service 
 
     2. Faire la mise en service hors tension du pupitre d'automate 
