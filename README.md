@@ -23,7 +23,7 @@ Déroulement des étapes :
 
 
 #Cahier des charges fonctionnel
- 1. Objectif :
+   Objectif :
    Programmer le malaxeur pour qu'il réalise une séquence de chauffage et de malaxage avec des ajouts de produit à des étapes précises.
     1. Chauffage initial  
        - Monter la température de la cuve à 45°C
