@@ -20,7 +20,7 @@ Déroulement des étapes :
         
     7. Tester, modifier/arranger et optimiser le programme 
        
-    8. Une fois le cycle de base validé, concevoir le mode automatique/manuel 
+    8. Une fois le cycle de base validé, concevoir le mode automatique/manuel et éditer l'IHM
 
 
 #Cahier des charges fonctionnel
