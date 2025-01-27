@@ -55,4 +55,5 @@ Déroulement des étapes :
 Je reste bloqué sur l'élément perturbateur de l'armoire éléctrique, malgré plusieurs tentatives pour identifier et résoudre ce dysfonctionnement. J’ai essayé de forcer les sorties et entrées qui semblaient correspondre au problème, mais sans succès. Les résultats ne montraient aucune amélioration, et les signaux attendus ne parvenaient pas aux actionneurs.
 
 Face à cette difficulté, j’ai entrepris de :
+
 -retracer les câblages des borniers J1, J2, et J3 accordés aux entrées et sortie de l'automate, pour pouvoir savoir quelle sortie il faut forcer. Je n'ai pas accès à l'armoire éléctrique alors je regroupe toute mes idées pour pouvoir continué à la prochaine séance.
