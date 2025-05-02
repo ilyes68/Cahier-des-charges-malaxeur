@@ -58,5 +58,11 @@ Face à cette difficulté, j’ai entrepris de :
 
 retracer les câblages des borniers J1, J2, et J3 accordés aux entrées et sortie de l'automate, pour pouvoir savoir quelle sortie il faut forcer. Je n'ai pas accès à l'armoire éléctrique alors je regroupe toute mes idées pour pouvoir continué à la prochaine séance.
 
-28/01
+#28/01
 -Lors de la séance, je me suis concentré sur le repérage des câbles nécessaires et de pouvoir brancher directement un système à l’automate, dans le but de forcer les entrées et sorties via TIA Portal avec l’aide de l’enseignant, pour mieux comprendre l’origine du dysfonctionnement. Les E/S forcée ne s'activaient pas, cela pouvait provenir d’un mauvais paramétrage ou d’une incohérence au niveau des variables de l’automate. Cependant, un nouvel imprévu est survenu : l’alimentation de l'automate a grilé. C'est assez embetant donc nous verrons dans la prochaine seance comment proceder pour la suite.  
+
+#02/05
+En raison des complications et des blocages qui ont duré beaucoup trop longtemps, Driss et moi avons préféré changer de projet avant qu’il ne soit trop tard, avec l’accord de M. Fages. D’autant plus que l’ensemble des groupes du TP sont encore en phase d’étude de leur projet. Pour ma part, j’ai rejoint le groupe de Gasser Hugo et Gurbuz Tolga. Driss, quant à lui, a intégré le groupe de Lucas Matisse et Ho Kevin.
+
+
+
