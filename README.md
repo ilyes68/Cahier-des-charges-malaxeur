@@ -57,3 +57,6 @@ Je reste bloqué sur l'élément perturbateur de l'armoire éléctrique, malgré
 Face à cette difficulté, j’ai entrepris de :
 
 -retracer les câblages des borniers J1, J2, et J3 accordés aux entrées et sortie de l'automate, pour pouvoir savoir quelle sortie il faut forcer. Je n'ai pas accès à l'armoire éléctrique alors je regroupe toute mes idées pour pouvoir continué à la prochaine séance.
+
+
+- Lors de la séance, je me suis concentré sur le repérage des câbles nécessaires et de pouvoir brancher directement un système à l’automate, dans le but de forcer les entrées et sorties via TIA Portal avec l’aide de l’enseignant, pour mieux comprendre l’origine du dysfonctionnement. Les E/S forcée ne s'activaient pas, cela pouvait provenir d’un mauvais paramétrage ou d’une incohérence au niveau des variables de l’automate. Cependant, un nouvel imprévu est survenu : l’alimentation de l'automate a grilé. C'est assez embetant donc nous verrons dnas la prochaine seance comment procedé pour la suite.  
